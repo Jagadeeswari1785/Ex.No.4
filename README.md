@@ -2,49 +2,118 @@
 ### DATE:                                                                            
 ### REGISTER NUMBER : 
 ### Aim: To write the prompt for the following prompt types and ompare that with differenet AI tools and evaluate that using any one evaluation method (eg. Rubrics). 1.Comparative Analysis Prompt 2. Experiential Perspective Prompt 3. Everyday Functioning Prompts 4. Universal Prompt Structures Prompt Refinements 5. Prompt Size Limitations design an AI 
+# Explanation:
 
-### Explanation - Any one use case from Unit 5 and write the prompt for that with the unit 2 Prompt types given above.
+Prompt Engineering allows us to design effective queries that guide AI systems to produce meaningful, context-aware responses.
+In this experiment, the manufacturing automation use case is considered from Unit 5. AI with IoT and embedded controllers is applied to improve monitoring, predictive maintenance, and energy efficiency.
 
-Procedure:
-1.	Define the Scenario and Use Case:
-Scenario:
-The manufacturing industry is looking to reduce manual monitoring and increase efficiency through automation. The system will utilize IoT devices and embedded controllers to automate equipment, monitor performance, and enable predictive maintenance. The goal is to streamline the production process, minimize downtime, and enhance energy efficiency.
+# Scenario:
+The manufacturing industry seeks to automate monitoring and optimize efficiency using IoT devices and embedded controllers. AI will enable predictive maintenance, reduce downtime, and enhance energy management.
+
 Target Audience:
-Manufacturing companies, specifically in sectors like automotive, electronics, and food processing, where automation can significantly improve productivity.
+Manufacturing companies in automotive, electronics, and food processing sectors.
 
-Main Objectives:
+# Objectives:
 
-•	Improve production efficiency by 30%.
-•	Minimize machinery downtime with predictive maintenance.
-•	Enable real-time monitoring and remote control of manufacturing systems.
-•	Reduce energy consumption by optimizing processes.
- 
-2.	Identify Prompt Patterns for Each Design Aspect:
-Idea Generation Prompts:
+Improve production efficiency by 30%
 
-Comparative Analysis Prompt
-Definition: Asking for a comparison between two or more concepts, often highlighting similarities and differences.
-•	"Compare and contrast deep learning and machine learning."
-•	"How do renewable and non-renewable energy sources differ?"
+Minimize machinery downtime using predictive maintenance
 
-Experiential Perspective Prompt:
-> 	“As a software engineer, what are the benefits of using cloud computing in your projects?”
->  “From a student’s perspective, describe the challenges of online learning.”
+Enable real-time monitoring and remote control
 
-Everyday Functioning Prompts:
-*	  “Describe the role of machine learning in everyday apps like YouTube or Netflix."
-*	 	“How is encryption used in daily life when sending WhatsApp messages?”
+Reduce energy usage with process optimization
 
-Universal Prompt Structures:
-^ 	“Explain [concept] in simple terms with an example.”
-^  “Explain the process of [task] step by step.”
+# Prompt Types with Examples
+1. Comparative Analysis Prompt
 
-Prompt Size Limitations:
-&  	“Translate this 5000-word essay into Tamil.”
-→ Manageable chunks: “Translate the first 1000 words into Tamil, then continue.”
-&  “Give me 50 examples of AI applications.”
-→ Adjust for size: “Give me 10 AI applications at a time.”
+Definition: Compares two or more concepts, focusing on differences and similarities.
 
+# Prompt Example:
+“Compare and contrast predictive maintenance with traditional scheduled maintenance in manufacturing systems.”
 
+Sample Response:
+Predictive maintenance uses AI and IoT to detect potential failures in advance, reducing downtime and saving costs. Traditional scheduled maintenance relies on fixed time intervals, which can lead to unnecessary servicing or unexpected breakdowns.
 
-# Result: The various types of Prompts are executed successfully with generated the report.
+2. Experiential Perspective Prompt
+
+Definition: Generates responses from a particular role or viewpoint.
+
+Prompt Example:
+“As a factory manager, explain the benefits of AI-based predictive maintenance.”
+
+Sample Response:
+“As a factory manager, AI-based predictive maintenance helps me avoid unexpected equipment failures, plan service schedules effectively, and reduce costs associated with machine downtime.”
+
+3. Everyday Functioning Prompt
+
+Definition: Shows how concepts are applied in daily operations or common activities.
+
+Prompt Example:
+“How is IoT-based monitoring in factories similar to health monitoring apps on smartphones?”
+
+Sample Response:
+IoT monitoring in factories works like health apps: sensors continuously track machine performance (like heart rate), send alerts when values are abnormal, and provide long-term data for optimization.
+
+4. Universal Prompt Structures
+
+Definition: General-purpose templates adaptable to various contexts.
+
+Prompt Example 1:
+“Explain predictive maintenance in simple terms with an example.”
+
+Response:
+Predictive maintenance means checking machines regularly using sensors and AI to predict failures before they happen. Example: A motor that vibrates unusually alerts engineers to service it before it breaks.
+
+Prompt Example 2:
+“Explain the process of automating a factory step by step.”
+
+# Response:
+
+Install IoT sensors on machines.
+
+Collect real-time performance data.
+
+Analyze data with AI models.
+
+Predict possible failures.
+
+Automate alerts and control responses.
+
+5. Prompt Size Limitations
+
+Definition: Managing very large tasks by breaking them into smaller prompts.
+
+Prompt Example:
+“List 50 ways AI can improve manufacturing efficiency.”
+
+Refined Prompt:
+“List 10 ways AI can improve manufacturing efficiency. Continue until 50 are listed.”
+
+Sample Response (first 5):
+
+Real-time monitoring of machine health
+
+Predictive maintenance scheduling
+
+Energy consumption optimization
+
+Automated quality inspection
+
+Production line optimization
+
+Evaluation (Rubric Method):
+Criteria	Score (1–5)	Remarks
+Clarity of Response	5	Responses were clear and well-structured
+Relevance to Scenario	5	All responses matched the manufacturing case
+Practical Application	4	Most responses applicable in real-world use
+Conversational Quality	4	Some prompts felt slightly formal
+
+Overall Score: 18/20 – The prompts were effective and scenario-focused.
+
+### Conclusion:
+
+The various prompt types (Comparative Analysis, Experiential Perspective, Everyday Functioning, Universal Structures, and Prompt Size Limitations) were applied successfully to the manufacturing automation scenario. Each method demonstrated unique strengths in generating accurate and context-aware responses.
+
+### Result:
+
+Thus, the prompts were executed successfully, evaluated using rubrics, and the report was generated.
